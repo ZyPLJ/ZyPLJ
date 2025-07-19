@@ -7,7 +7,7 @@
 - 😄 Pronouns: Star Painter
 - ⚡ Fun fact: [SharpIcoWeb](https://github.com/ZyPLJ/SharpIcoWeb)
 
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=ZyPLJ)](https://github.com/IceEnd)
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=ZyPLJ)](https://github.com/ZyPLJ)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyPLJ&show_icons=true&theme=transparent)
 
