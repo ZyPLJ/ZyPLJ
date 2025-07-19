@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ZyPLJ/ZyPLJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [ZYBlog](https://pljzy.top)
+- 🌱 I’m currently learning [.NET Minimal APIs](https://www.cnblogs.com/ZYPLJ/p/18985930)
+- 💬 Ask me about C#、Java、Python
+- 📫 How to reach me: [welcome to my blog](https://pljzy.top)
+- 😄 Pronouns: Star Painter
+- ⚡ Fun fact: [SharpIcoWeb](https://github.com/ZyPLJ/SharpIcoWeb)
 
-Here are some ideas to get you started:
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=ZyPLJ)](https://github.com/IceEnd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyPLJ&show_icons=true&theme=transparent)
+
+<div>
+    <a href="https://pljzy.top"><img alt="Static Badge" src="https://img.shields.io/badge/ZYBlog-ZY%E7%9F%A5%E8%AF%86%E5%BA%93-white"/></a>
+    <a href="https://pljzy.top"><img alt="Static Badge" src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%A6%99%E5%A6%99%E5%B1%8B-blue"/></a>
+</div>
+
+
+
