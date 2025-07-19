@@ -12,8 +12,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyPLJ&show_icons=true&theme=transparent)
 
 <div>
-    <a href="https://pljzy.top"><img alt="Static Badge" src="https://img.shields.io/badge/ZYBlog-ZY%E7%9F%A5%E8%AF%86%E5%BA%93-white"/></a>
-    <a href="https://pljzy.top"><img alt="Static Badge" src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%A6%99%E5%A6%99%E5%B1%8B-blue"/></a>
+    <a href="https://pljzy.top" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/ZYBlog-ZY%E7%9F%A5%E8%AF%86%E5%BA%93-white"/></a>
+    <a href="https://www.cnblogs.com/ZYPLJ" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%A6%99%E5%A6%99%E5%B1%8B-blue"/></a>
 </div>
 
 
