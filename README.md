@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [ZYBlog](https://pljzy.top)
+- 🔭 I’m currently working on [ZYBlog](https://blog.pljzy.top/)
 - 🌱 I’m currently learning [.NET Minimal APIs](https://www.cnblogs.com/ZYPLJ/p/18985930)
 - 💬 Ask me about C#、Java、Python
-- 📫 How to reach me: [welcome to my blog](https://pljzy.top)
+- 📫 How to reach me: [welcome to my blog](https://blog.pljzy.top/)
 - 😄 Pronouns: Star Painter
-- ⚡ Fun fact: [SharpIcoWeb](https://github.com/ZyPLJ/SharpIcoWeb)
+- ⚡ Fun fact: [SharpIcoWeb](https://github.com/ZyPLJ/SharpIcoWeb)、[fuwai_zy](https://github.com/ZyPLJ/fuwai_zy)
 
 [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=ZyPLJ)](https://github.com/ZyPLJ)
 
