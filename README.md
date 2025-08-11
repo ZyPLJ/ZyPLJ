@@ -5,7 +5,7 @@
 - 💬 Ask me about C#、Java、Python
 - 📫 How to reach me: [welcome to my blog](https://blog.pljzy.top/)
 - 😄 Pronouns: Star Painter
-- ⚡ Fun fact: [SharpIcoWeb](https://github.com/ZyPLJ/SharpIcoWeb)、[fuwai_zy](https://github.com/ZyPLJ/fuwai_zy)
+- ⚡ Fun fact: [SharpIcoWeb](https://github.com/ZyPLJ/SharpIcoWeb)、[fuwai_zy](https://github.com/ZyPLJ/fuwai_zyplj)
 
 [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=ZyPLJ)](https://github.com/ZyPLJ)
 
